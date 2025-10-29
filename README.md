@@ -4499,7 +4499,7 @@ Inspired by <a href="https://github.com/RehanSaeed/Bash-Cheat-Sheet">RehanSaeed/
 [cheat.sh](https://github.com/chubin/cheat.sh)<br>
 ![image](https://user-images.githubusercontent.com/18756975/200065767-13a6249f-2188-4206-8073-1714be57c408.png)<br>
 <div align="center"> 
-<details><summary><b>Cheat sheets sources</b></summary>
+<details><summary><b>ℹ️CHEAT.SH SOURCESℹ️</b></summary>
 <p>
 
 |Cheat sheets           |Repository                                                                          |C/U*                                                                                                                  |Stars                                                                                                   |Creation Date|
@@ -4567,6 +4567,7 @@ cht.sh keyword
 | [Bash Booster](https://github.com/bahamas10/bash-booster) | A modular bash framework that simplifies the process of writing bash scripts. |
 | [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | A collection of pure bash snippets for common tasks like string manipulation, file handling, etc., with no external dependencies. |
 | **Curated Lists of Bash/Shell Resources** |
+| [awesome-terminals](https://github.com/cdleon/awesome-terminals) | Terminal Emulators. |
 | [awesome-bash](https://github.com/awesome-lists/awesome-bash) | A curated list of delightful Bash scripts and resources. |
 | [awesome-shell](https://github.com/uhub/awesome-shell) | A curated list of awesome Shell frameworks, libraries, and software. |
 | [awesome-shell](https://github.com/alebcay/awesome-shell) | A list of awesome shell tools and resources, including libraries and scripts for enhancing the command-line experience. |
@@ -4574,14 +4575,18 @@ cht.sh keyword
 | [cli-apps](https://github.com/toolleeo/cli-apps) | A curated list of (mainly) CLI/TUI applications with source data organized into CSV files. |
 | [awesome-cli](https://github.com/Kikobeats/awesome-cli) | A curated list of awesome resources for building immersive CLI experiences. |
 | [awesome-cli](https://github.com/umutphp/awesome-cli) | A simple command line tool to give you a fancy command line interface to dive into Awesome lists. |
+| [awesome-tuis](https://github.com/rothgar/awesome-tuis) | List of projects that provide terminal user interfaces. |
 | **AI-Enhanced Command Line Tools** |
+| [aichat](https://github.com/sigoden/aichat) | All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. |
 | [shell_gpt](https://github.com/TheR1D/shell_gpt) | A command-line productivity tool powered by AI large language models like GPT-4. |
 | [aider](https://github.com/paul-gauthier/aider) | AI pair programming in your terminal. |
-| [warp](https://github.com/warpdotdev/Warp) | Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. |
 | [plandex](https://github.com/plandex-ai/plandex) | AI driven development in your terminal. Designed for large, real-world tasks. |
+| [warp](https://github.com/warpdotdev/Warp) | Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. |
 | **Other Fun and Useful Shell Tools** |
 | [awesome-ttygames](https://github.com/ligurio/awesome-ttygames) | Unix ASCII games. |
 | [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) | A curated list of Terminal frameworks, plugins, and resources for CLI lovers. |
+| [awesome-fetch](https://github.com/beucismis/awesome-fetch) | Command-line fetch tools for system/other information. |
+| [awesome-console-services](https://github.com/chubin/awesome-console-services) | A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols). |
 
 </p>
  </details>
